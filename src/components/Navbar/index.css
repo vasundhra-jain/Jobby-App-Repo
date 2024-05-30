@@ -1,0 +1,42 @@
+.navbar-background{
+    background-color:  #272727;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.navbar-logo{
+    height: 30px;
+}
+
+.navbar-unordered-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+}
+
+.navbar-link{
+    text-decoration: none;
+}
+
+.navbar-list-item{
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 12px;
+}
+
+.navbar-button{
+    background-color: #6366f1;
+    border: 0px;
+    color: #ffffff;
+    font-family: roboto;
+    border-radius: 4px;
+    padding: 6px;
+    width: 100px;
+    font-size: 11px;
+    cursor: pointer;
+    outline: none;
+}
